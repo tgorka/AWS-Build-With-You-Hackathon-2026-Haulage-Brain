@@ -4,12 +4,17 @@ src/load_quoting_swarm/web.py
   s_009398cdc74b6f::t_dc027f0165fbb7 106
 src/load_quoting_swarm/web_assets/app.js
   s_009398cdc74b6f::t_48f6a4f8a0a1fc 19-20,101-125,588,600,672-681
+  s_009398cdc74b6f::t_a98cd47f24205e 199,576,612
 src/load_quoting_swarm/web_assets/index.html
   s_009398cdc74b6f::t_e12bb1f2869187 48
+  s_009398cdc74b6f::t_a98cd47f24205e 9,63-67,298
 tests/test_web.py
   s_009398cdc74b6f::t_b21fe4ddfce66e 56-69
 tests/test_web_ui.mjs
   s_009398cdc74b6f::t_387be5cda616ac 1-18,22-25,27-36,38-72,74-76,78-85,87-88,91-96,98-100,102
+  s_009398cdc74b6f::t_a98cd47f24205e 19-21,26,37,73,77,86,89-90,97,101
+src/load_quoting_swarm/web_assets/app.css
+  s_009398cdc74b6f::t_a98cd47f24205e 301-308,315
 ---
 {
   "schema_version": "authorship/3.0.0",
