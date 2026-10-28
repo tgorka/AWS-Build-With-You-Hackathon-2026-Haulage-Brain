@@ -1,0 +1,27 @@
+src/load_quoting_swarm/web_assets/app.css
+  s_c46758925bd427::t_8ebe49c24531c5 609-611,623,638-640,1148-1149,1444,1447
+tests/easter-eggs.test.cjs
+  s_c46758925bd427::t_74aaa55bdb96c6 1-159
+README.md
+  s_c46758925bd427::t_74aaa55bdb96c6 353
+src/load_quoting_swarm/web_assets/index.html
+  s_c46758925bd427::t_8ebe49c24531c5 9
+DESIGN.md
+  s_c46758925bd427::t_db50866a82d67f 141-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9978699958d6b56b9c9b179a20140708b57d225e",
+  "prompts": {},
+  "sessions": {
+    "s_c46758925bd427": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1843f-64fd-7261-80dc-e037e9b60a49",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
