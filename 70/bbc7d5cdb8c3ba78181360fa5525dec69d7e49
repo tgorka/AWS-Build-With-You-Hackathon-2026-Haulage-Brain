@@ -1,0 +1,31 @@
+README.md
+  s_009398cdc74b6f::t_9df8733453adaa 333,336-338
+src/load_quoting_swarm/web.py
+  s_009398cdc74b6f::t_dc027f0165fbb7 105
+src/load_quoting_swarm/web_assets/app.css
+  s_009398cdc74b6f::t_d32e517c04d289 41-42,124,154
+src/load_quoting_swarm/web_assets/app.js
+  s_009398cdc74b6f::t_48f6a4f8a0a1fc 2-3,18-51,101,178,180,185,196,214,225-234
+src/load_quoting_swarm/web_assets/index.html
+  s_009398cdc74b6f::t_e12bb1f2869187 8,15-21,73
+tests/test_web.py
+  s_009398cdc74b6f::t_b21fe4ddfce66e 56-69
+tests/test_web_ui.mjs
+  s_009398cdc74b6f::t_387be5cda616ac 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "70bbc7d5cdb8c3ba78181360fa5525dec69d7e49",
+  "prompts": {},
+  "sessions": {
+    "s_009398cdc74b6f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18444-dcca-7fc0-88ab-2443b2fb180a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
