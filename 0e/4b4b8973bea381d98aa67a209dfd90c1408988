@@ -1,0 +1,29 @@
+README.md
+  s_009398cdc74b6f::t_9df8733453adaa 353,356-358
+src/load_quoting_swarm/web.py
+  s_009398cdc74b6f::t_dc027f0165fbb7 106
+src/load_quoting_swarm/web_assets/app.js
+  s_009398cdc74b6f::t_48f6a4f8a0a1fc 19-20,101-125,588,600,672-681
+src/load_quoting_swarm/web_assets/index.html
+  s_009398cdc74b6f::t_e12bb1f2869187 48
+tests/test_web.py
+  s_009398cdc74b6f::t_b21fe4ddfce66e 56-69
+tests/test_web_ui.mjs
+  s_009398cdc74b6f::t_387be5cda616ac 1-18,22-25,27-36,38-72,74-76,78-85,87-88,91-96,98-100,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e4b4b8973bea381d98aa67a209dfd90c1408988",
+  "prompts": {},
+  "sessions": {
+    "s_009398cdc74b6f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18444-dcca-7fc0-88ab-2443b2fb180a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
