@@ -1,0 +1,29 @@
+README.md
+  s_7d8bbab540ef4b::t_879547e7125349 239-251
+.github/workflows/chain-tests.yml
+  s_7d8bbab540ef4b::t_879547e7125349 8-9,26-75
+Dockerfile
+  s_7d8bbab540ef4b::t_879547e7125349 27,35
+src/load_quoting_swarm/chain/web.py
+  s_7d8bbab540ef4b::t_3ec2dd5f8896e6 129
+pyproject.toml
+  s_7d8bbab540ef4b::t_879547e7125349 38
+tests/chain/test_spooky_workspace.py
+  s_7d8bbab540ef4b::t_3ec2dd5f8896e6 89-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3612be422cc5608546d6b57ef788403e7e779b10",
+  "prompts": {},
+  "sessions": {
+    "s_7d8bbab540ef4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1852f-175e-7a91-b601-8f4922082ba2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
