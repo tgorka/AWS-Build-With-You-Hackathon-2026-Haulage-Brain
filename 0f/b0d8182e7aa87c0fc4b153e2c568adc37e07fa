@@ -1,0 +1,112 @@
+README.md
+  s_5d0b71c075804d::t_323f0d5080d5b5 372,374,376,378-381,383-384
+  s_5d0b71c075804d::t_ff6cc226638755 364-371,373,375,377,385
+  s_5d0b71c075804d::t_ee2912acca2d92 353,386-389
+  s_5d0b71c075804d::t_7682f04761bc0d 382
+src/load_quoting_swarm/web_assets/brain-replies.css
+  s_5d0b71c075804d::t_e3df714bdcdd9e 1-52
+  s_5d0b71c075804d::t_3e7048e16cd857 53-57
+src/load_quoting_swarm/web_assets/creature-motion.css
+  s_5d0b71c075804d::t_aae2af46b74b6e 1-98
+src/load_quoting_swarm/web_assets/index.html
+  s_5d0b71c075804d::t_bb6d5752814746 26-27,49,144-145,148,168,185,198-199,201-202,206,208,233,308,334
+  s_5d0b71c075804d::t_aae2af46b74b6e 11
+  s_5d0b71c075804d::t_6a901fdeb7fa59 9,21,142,183-184,186-196,200,203-205,207,209-211,237,437
+  s_5d0b71c075804d::t_ff6cc226638755 15
+  s_5d0b71c075804d::t_c08df5c76b3eac 10,50,140,197,438-439
+  s_5d0b71c075804d::t_e3df714bdcdd9e 12,440-441
+tests/test_spooky_brain.py
+  s_5d0b71c075804d::t_26000294265d14 15
+  s_5d0b71c075804d::t_c12ec7c885b823 1-14,16-140
+src/load_quoting_swarm/web.py
+  s_5d0b71c075804d::t_924e6f7d19e84e 45,49-53
+  s_5d0b71c075804d::t_5e43543f0973d2 43
+  s_5d0b71c075804d::t_91f55f03026beb 46
+  s_5d0b71c075804d::t_8bf9cdb37df095 42,143,162,473-474
+  s_5d0b71c075804d::t_4a9c804f9e2692 4,19,28-29,146-155,193-197,450,460-462,475-476,495,505-509
+  s_5d0b71c075804d::t_fc84ffb9d7945c 27,40-41,141,157-158,463-464,479,516
+  s_5d0b71c075804d::t_92608d877da5d4 47-48
+  s_5d0b71c075804d::t_742a8970eb1d0f 159-161,163-167
+  s_5d0b71c075804d::t_902790682a8480 510-511
+  s_5d0b71c075804d::t_d1805800df8f71 44
+  s_5d0b71c075804d::t_8c1a48345cc561 156
+src/load_quoting_swarm/web_assets/spooky-brain.css
+  s_5d0b71c075804d::t_407c4cb032779c 98-278
+  s_5d0b71c075804d::t_4215ab8346f9b6 1-97
+  s_5d0b71c075804d::t_425084152b6a88 279-289
+src/load_quoting_swarm/web_assets/spooky-art.js
+  s_5d0b71c075804d::t_c08df5c76b3eac 11-23
+  s_5d0b71c075804d::t_4ae476acb6a755 1-10,24
+src/load_quoting_swarm/web_assets/brain-replies.js
+  s_5d0b71c075804d::t_e3df714bdcdd9e 1-20,22-49
+  s_5d0b71c075804d::t_94ac77b640e029 21
+DESIGN.md
+  s_5d0b71c075804d::t_8a06baa27e3d97 113,115,128,139
+  s_5d0b71c075804d::t_ee2912acca2d92 171-177
+  s_5d0b71c075804d::t_7682f04761bc0d 157,161,164-170
+  s_5d0b71c075804d::t_323f0d5080d5b5 159,162-163
+  s_5d0b71c075804d::t_ff6cc226638755 153-156,158,160
+.gitignore
+  s_5d0b71c075804d::t_4a9c804f9e2692 2-3
+tests/brain-replies.test.cjs
+  s_5d0b71c075804d::t_94ac77b640e029 1-45
+src/load_quoting_swarm/inference.py
+  s_5d0b71c075804d::t_92608d877da5d4 135-139
+  s_5d0b71c075804d::t_30df0c1dba017f 106-111,113-115,119-134,140-148
+  s_5d0b71c075804d::t_913e6d80a0e2cb 112
+  s_5d0b71c075804d::t_c3057a81ec3198 116
+  s_5d0b71c075804d::t_407c4cb032779c 117-118
+src/load_quoting_swarm/web_assets/zombie-brain.svg
+  s_5d0b71c075804d::t_95c880f3826bd6 1-12
+tests/test_brain_ai.py
+  s_5d0b71c075804d::t_8f0feeaad6dc39 1-171
+src/load_quoting_swarm/web_assets/spooky-brain.js
+  s_5d0b71c075804d::t_21a5a8534cc31e 8,11-15,17,60-61,109-114,116-118,120-123,125-136,139-141,143-145,147,149,151,153-154,156-160,162-163,166,168-170,172-194,200,203,211,221
+  s_5d0b71c075804d::t_e3df714bdcdd9e 56,59,63-64,161,167
+  s_5d0b71c075804d::t_26000294265d14 215
+  s_5d0b71c075804d::t_d5707761eaad77 171,202
+  s_5d0b71c075804d::t_8a06baa27e3d97 197-198,205
+  s_5d0b71c075804d::t_c08df5c76b3eac 201
+  s_5d0b71c075804d::t_4f4e22817073d6 1-7,9-10,16,18-39,41,43-48,50,53-55,57-58,62,65-79,81-91,93-99,101-108,115,124,137-138,142,146,148,150,152,155,164,195-196,199,216-219,222-224
+  s_5d0b71c075804d::t_474d67bbcb5b1f 42
+  s_5d0b71c075804d::t_58c67a60555889 220
+  s_5d0b71c075804d::t_c3057a81ec3198 119,204,206-210
+  s_5d0b71c075804d::t_54d1befa28f7a9 40,49,51-52,80,92,100,165,212-214
+tests/test_web_ui.mjs
+  s_5d0b71c075804d::t_c3057a81ec3198 103-135
+scripts/build_pages.py
+  s_5d0b71c075804d::t_283936a1f29c29 10,89-99
+  s_5d0b71c075804d::t_4a9c804f9e2692 79
+src/load_quoting_swarm/web_assets/app.js
+  s_5d0b71c075804d::t_4a9c804f9e2692 666
+  s_5d0b71c075804d::t_b87decae8ef438 274-275,281-283
+  s_5d0b71c075804d::t_a7d0e4e4611c60 322,349,358,374-378,691-692
+  s_5d0b71c075804d::t_8bf9cdb37df095 513-514
+  s_5d0b71c075804d::t_283936a1f29c29 641-642
+  s_5d0b71c075804d::t_c518b4bf25e581 258-264,266,735-742
+src/load_quoting_swarm/web_assets/creature-motion.js
+  s_5d0b71c075804d::t_e9efba7ab777a7 1-86,88-97
+  s_5d0b71c075804d::t_7bc4c4dd21bc5e 87
+tests/creature-motion.test.cjs
+  s_5d0b71c075804d::t_e9efba7ab777a7 1-37
+docs/creature-assets.md
+  s_5d0b71c075804d::t_15077eb077708c 1-43
+src/load_quoting_swarm/web_assets/loop-demo.json
+  s_5d0b71c075804d::t_21071b6f8395e6 1-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0fb0d8182e7aa87c0fc4b153e2c568adc37e07fa",
+  "prompts": {},
+  "sessions": {
+    "s_5d0b71c075804d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a184ab-02f0-7012-9bc8-f46cf8a0e98a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
