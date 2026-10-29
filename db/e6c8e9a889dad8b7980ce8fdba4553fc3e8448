@@ -1,0 +1,47 @@
+src/load_quoting_swarm/analysis_runs.py
+  s_5d0b71c075804d::t_7e76b228e3480a 5,14,238-268
+src/load_quoting_swarm/web_assets/app.js
+  s_5d0b71c075804d::t_7e76b228e3480a 343,370-372,458-463
+src/load_quoting_swarm/discord_webhook.py
+  s_5d0b71c075804d::t_7e76b228e3480a 1-201
+tests/easter-eggs.test.cjs
+  s_5d0b71c075804d::t_7e76b228e3480a 1-159
+tests/test_discord_webhook.py
+  s_5d0b71c075804d::t_7e76b228e3480a 1-119
+src/load_quoting_swarm/web_assets/app.css
+  s_5d0b71c075804d::t_7e76b228e3480a 609-611,623,638-640,1148-1149,1444,1447
+README.md
+  s_5d0b71c075804d::t_7e76b228e3480a 353
+src/load_quoting_swarm/spooky_brain.py
+  s_5d0b71c075804d::t_cc0ea3ab089940 221-222,224,226-235
+  s_5d0b71c075804d::t_16ba1fb3d64b8c 57
+  s_5d0b71c075804d::t_c3057a81ec3198 284,286
+  s_5d0b71c075804d::t_f8b09931916cf5 4,178,189,202-204,211-212,218-220,243,285
+  s_5d0b71c075804d::t_5d46defae90284 1-3,5-54,56,58-96,99-103,131-145,147-148,150-153,156-159,162-177,180-181,184-188,190-201,205-210,213-217,223,225,236-242,244-245,247-283
+  s_5d0b71c075804d::t_913e6d80a0e2cb 55,97-98,104-130,146,149,154-155,160-161,179,182-183,246
+src/load_quoting_swarm/brain_ai.py
+  s_5d0b71c075804d::t_2778d348c6dbd1 1-41,45-96
+  s_5d0b71c075804d::t_c518b4bf25e581 42-44
+src/load_quoting_swarm/web_assets/index.html
+  s_5d0b71c075804d::t_7e76b228e3480a 412-413
+DESIGN.md
+  s_5d0b71c075804d::t_7e76b228e3480a 141-143
+src/load_quoting_swarm/web.py
+  s_5d0b71c075804d::t_bedb7c9f105662 512
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dbe6c8e9a889dad8b7980ce8fdba4553fc3e8448",
+  "prompts": {},
+  "sessions": {
+    "s_5d0b71c075804d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a184ab-02f0-7012-9bc8-f46cf8a0e98a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
