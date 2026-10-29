@@ -70,6 +70,7 @@ tests/chain/test_explanations.py
 README.md
   s_7915afd465158b::t_a79ad86e015abf 364,391-496,498-519
   s_7915afd465158b::t_98b83bc8e78fd2 497
+  s_5d0b71c075804d::t_23f953a90c61f1 390
 src/load_quoting_swarm/chain/discord.py
   s_7915afd465158b::t_b71647a6b31549 45-46
   s_7915afd465158b::t_65e3d15ac5cca5 1-44,47-80
@@ -92,6 +93,14 @@ data/chain/evidence/validation.json
   "base_commit_sha": "2da7ddeb42ce50abb22d4181e05a8df71e1b5d00",
   "prompts": {},
   "sessions": {
+    "s_5d0b71c075804d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a184ab-02f0-7012-9bc8-f46cf8a0e98a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "tgorka <tomasz@gorka.org.pl>"
+    },
     "s_7915afd465158b": {
       "agent_id": {
         "tool": "codex",
